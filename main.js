@@ -1,2 +1,2 @@
 var num = 40;
-var string = "Ayu Azhari";
+var string = "Ayu Cantik";
